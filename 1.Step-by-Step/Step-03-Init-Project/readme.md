@@ -37,6 +37,10 @@ Tương tự như vậy
 - Js dùng chung: đặt trong file js/global.js
 - Js dùng riêng cho trang nào thì tạo file riêng js cho trang đó js/index.js
 
+**Lưu ý quan trọng**
+
+Tổ chức tên file, tên thư mục, tên class css làm sao để khi RAP (Merge) code lại không xảy ra hiện tượng bị trùng tên, xung đột class.
+
 ### 💛 A2. Dự án ReactJs
 
 ### 💛 A3. Dự án NodeJS and ExpressJS
