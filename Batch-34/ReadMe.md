@@ -70,3 +70,23 @@ e-commerce-Dashboard/
 Code API cho các tính năng trên
 
 - Tham khảo Models: https://github.com/nhannn87dn/NodeJs-ExpressJs-MongooDB-Course/tree/main/02.Examples/express-mongoose-backend-api/src/models
+
+
+
+## Init Project - Cấu hình chung
+
+Team sẽ cử ra một bạn, tạo tài khoản github để up code, add thành viên của mình vào quản lí soucre cùng.
+
+### Đối với FrontEnd
+
+- Cài đặt App, các packages dự kiến sử dụng
+- Code các component sử dụng chung: Như Layout, Header, Footer, Buttons, Inputs, Font chữ, Size chữ....Style chung
+
+### Đối với Backend
+
+- Tạo Database sử dụng MoongoDB Atlas (cloud)
+- Share thông số kết nối cho all thành viên được phân làm Backend
+- Khởi tạo dự án API: ExpressJS, Mongoose
+- Tạo Các collection độc lập trước, sau đó tạo các collections có quan hệ sau.
+- Tạo models, Tạo service, Tạo Controller, Tạo Routes, Tạo Validation
+- Tạo Authentication, Authorizarion
