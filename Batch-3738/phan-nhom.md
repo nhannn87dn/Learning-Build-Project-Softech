@@ -2,7 +2,7 @@
 
 ## Nhóm 1
 
-- Thành viên: Hóa, Bắc, Tài
+- Thành viên: Hóa, Bắc, Tài, Triết
 - Đề tài: E-Commerce technology
 
 ## Nhóm 2
@@ -12,5 +12,5 @@
 
 ## Nhóm 3
 
-- Thành viên: Triết, Năm, Long
-- Đề tài: ?
+- Thành viên: Long
+- Đề tài: E-Commerce technology
