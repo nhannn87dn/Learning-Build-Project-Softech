@@ -68,7 +68,7 @@ Lấy sản phẩm từ localStorage lên để hiển thị, Dùng zustand.
 
 ### CheckOut
 
-- Điền thông tin người mua
+- Điền thông tin người mua: khi chưa login và đã login (Đã login truyền thêm id khách hàng)
 - Phương thức thanh toán
 
 ---
@@ -96,7 +96,7 @@ Phân quyền nếu có. dựa vào thuộc tính `role`  của user đang login
 
 ### Quản lý sản phẩm
 
-- Gắng làm cho được cái Upload hình ảnh sản phẩm
+- Gắng làm cho được cái Upload hình ảnh sản phẩm: thumbnail, hình lớn
 - Tìm hiểu cách để tích hợp CKeditor React để soạn bài viết mô tả cho sản phẩm
 
 
