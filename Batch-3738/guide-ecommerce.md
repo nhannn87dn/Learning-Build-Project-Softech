@@ -89,15 +89,20 @@ Phân quyền nếu có. dựa vào thuộc tính `role`  của user đang login
 ### Quản lý đơn hàng
 
 - Hiển thị danh sách đơn hàng
-- Bộ lọc: mã đơn hàng (LIKE), theo số đt (LIKE), trạng thái đơn, ngày đặt (BETWEEN)
-- Cập nhật được trạng thái đơn hàng: pending --> đã xử lý, đã thanh toán
-- Có thể bỏ bớt, thêm sản phẩm vào đơn hàng (Nếu làm đc)
+    - Bộ lọc: mã đơn hàng (LIKE), theo số đt (LIKE), trạng thái đơn, ngày đặt từ ngày đến ngày (BETWEEN)
+- Chi tiết đơn hàng:
+    - Cập nhật được trạng thái đơn hàng: pending --> đã xử lý, đã thanh toán
+    - Có thể bỏ bớt, thêm sản phẩm vào đơn hàng (Nếu làm đc)
 
 
 ### Quản lý sản phẩm
 
-- Gắng làm cho được cái Upload hình ảnh sản phẩm: thumbnail, hình lớn
-- Tìm hiểu cách để tích hợp CKeditor React để soạn bài viết mô tả cho sản phẩm
+- Danh sách sản phẩm:
+    - Lọc sản phẩm theo: danh mục, thương hiệu, trạng thái (isActive), đề xuất (isBest, isNew, isHome, isHot)
+
+- Chi tiết sản phẩm:
+    - Gắng làm cho được cái Upload hình ảnh sản phẩm: thumbnail, hình lớn
+    - Tìm hiểu cách để tích hợp CKeditor React để soạn bài viết mô tả cho sản phẩm
 
 
 ### Các mục còn lại
