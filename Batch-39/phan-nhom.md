@@ -15,7 +15,7 @@ Bán Sách - Thương mại điển tử
 
 ## 💛 Nhóm 2
 
-### Danh sách thành viên
+### 💥 Danh sách thành viên
 
 1. Mai Tấn Hưng
 1. Phạm Văn Toàn
@@ -28,7 +28,7 @@ Siêu thị điện máy - Thương mại điển tử
 
 ## 💛 Nhóm 3
 
-### Danh sách thành viên
+### 💥 Danh sách thành viên
 
 1. Lê Văn Linh
 
@@ -38,6 +38,10 @@ Bán Thực phẩm, rau củ quả
 
 ## 💛 Nhóm 4
 
-### Danh sách thành viên
+### 💥 Danh sách thành viên
+
+Chưa xếp
 
 ### 💥 Đề tài
+
+Chưa chọn
