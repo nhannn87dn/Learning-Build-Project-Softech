@@ -20,11 +20,12 @@ Bán Sách - Thương mại điển tử
 1. Mai Tấn Hưng
 1. Phạm Văn Toàn
 1. Nguyễn Thị Phương Uyên
-1. Lê Thành Công
 
 ### 💥 Đề tài
 
 Siêu thị điện máy - Thương mại điển tử
+
+---
 
 ## 💛 Nhóm 3
 
@@ -36,9 +37,31 @@ Siêu thị điện máy - Thương mại điển tử
 
 Bán Thực phẩm, rau củ quả
 
+---
+
 ## 💛 Nhóm 4
 
 ### 💥 Danh sách thành viên
+
+1. Lê Thành Công
+1. Trần Thành Hồng Quân
+
+Chưa xếp
+
+### 💥 Đề tài
+
+Bán sảm phẩm công nghệ - Thương mại điển tử
+
+---
+
+## 💛 Nhóm 5
+
+### 💥 Danh sách thành viên
+
+1. Phạm Minh Đức
+1. Nguyễn Hoàng Bảo Trâm
+1. Thái Thị Huế
+1. Trần Nhật Kha
 
 Chưa xếp
 
