@@ -140,6 +140,8 @@ Giao để quản trị.
 
 Ứng với từng phần tính năng bên EndUser thì cần trang quản trị tương ứng
 
+https://techzaa.getappui.com/larkon/admin/orders-list.html
+
 ### 1 - Quản lý sản phẩm
 
 - Danh sách phân trang
