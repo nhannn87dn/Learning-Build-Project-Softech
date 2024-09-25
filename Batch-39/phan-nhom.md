@@ -20,6 +20,7 @@ Bán Sách - Thương mại điển tử
 1. Mai Tấn Hưng
 1. Phạm Văn Toàn
 1. Nguyễn Thị Phương Uyên
+1. Trần Nhật Kha
 
 ### 💥 Đề tài
 
@@ -61,7 +62,6 @@ Bán sảm phẩm công nghệ - Thương mại điển tử
 1. Phạm Minh Đức
 1. Nguyễn Hoàng Bảo Trâm
 1. Thái Thị Huế
-1. Trần Nhật Kha
 
 Chưa xếp
 
