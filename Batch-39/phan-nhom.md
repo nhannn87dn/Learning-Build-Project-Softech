@@ -22,6 +22,7 @@ ReactJs - PlayfulOutings - Game indoor, outdoor cho trẻ em, gia đình.
 1. Phạm Văn Toàn
 1. Nguyễn Thị Phương Uyên
 1. Trần Nhật Kha
+1. Teves Mario Tuấn Anh
 
 ### 💥 Đề tài
 
@@ -41,7 +42,7 @@ Bán Thực phẩm, rau củ quả
 
 ---
 
-## 💛 Nhóm 4
+## 💛 Nhóm 4 - SEM 1
 
 ### 💥 Danh sách thành viên
 
@@ -107,8 +108,7 @@ Chưa chọn
 
 ### 💥 Đề tài
 
-Chưa chọn
-
+Fashion Store - ReactJs
 
 ## 💛 Nhóm 9 - SEM 1
 
