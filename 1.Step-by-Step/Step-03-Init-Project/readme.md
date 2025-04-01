@@ -43,6 +43,78 @@ Tổ chức tên file, tên thư mục, tên class css làm sao để khi RAP (M
 
 ### 💛 A2. Dự án ReactJs
 
+Cấu trúc phổ biến
+
+```html
+react-ecommerce/
+├─ node_modules/
+├─ public/
+├─ src/
+│  ├─ components/
+│       ├─ ui
+│       ├─ layout
+│       ├─ shared
+│  ├─ constants/
+│  ├─ hooks/
+│  ├─ libs/
+│  ├─ utils/
+│  ├─ stores/
+│  ├─ pages/
+│       ├─ HomePage
+│       ├─ ProductPage
+│       ├─ ProductDetailPage
+│       ├─ CartPage
+│       ├─ CheckOutPage
+│       ├─ CheckOutDonePage
+│       ├─ LoginPage
+│       ├─ RegisterPage
+│       ├─ CustomerPage
+│       ├─ CustomerOrderPage
+│       ├─ CustomerProfilePage
+│       ├─ NoPage
+│  ├─ App.tsx
+│  ├─ App.css
+│  ├─ index.css
+│  ├─ main.tsx
+├─ .env
+├─ index.html
+├─ .gitignore
+├─ package.json
+├─ README.md
+├─ tsconfig.json
+├─ vite.config.ts
+
+```
+
 ### 💛 A3. Dự án NodeJS and ExpressJS
 
+Cấu trúc backend api với NodeJS and ExpressJS đơn giản
 
+```html
+project-restful-apis/
+├── node_modules/
+├── public/             # Tệp tĩnh như hình ảnh, CSS, JavaScript, v.v.
+├── src/
+│   ├── controllers/    # Xử lý các request và gọi các service tương ứng
+│   ├── middleware/     # Các middleware như xác thực, logging, v.v.
+│   ├── models/         # Các model đại diện cho dữ liệu (ORM/ODM models)
+│   ├── services/       # Business logic chính của ứng dụng
+│   ├── helpers/        # Các hàm tiện ích được dùng trong nhiều nơi
+│   ├── validations/    # Xác thực dữ liệu request
+│   ├── configs/        # Các file cấu hình (config.js, database.js, v.v.)
+│   ├── routes/         # Định nghĩa các route của API
+│   │   ├── v1/         # API v1 routes
+│   │   ├── v2/         # API v2 routes (nếu có)
+│   ├── app.ts          # Cấu hình Express và middleware chính
+│   ├── server.ts       # Tệp khởi động server (kết nối DB và chạy server)
+├── .env                # Biến môi trường cho project
+├── .gitignore          # Các tệp và thư mục không cần đưa vào git
+├── package.json        # Thông tin dự án và các dependencies
+├── README.md           # Tài liệu hướng dẫn về dự án
+```
+
+
+## 💛 B. Tài nguyên dùng chung
+
+- Bạn phụ trách init project thực hiện code các tính năng dùng chung và push lên git để thành viên team `clone` về triển khai task chi tiết.
+- Thống nhất quy trình triển khai code
